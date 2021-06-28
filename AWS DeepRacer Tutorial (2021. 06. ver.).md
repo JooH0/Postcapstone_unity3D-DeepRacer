@@ -8,19 +8,19 @@ https://console.aws.amazon.com/deepracer/home?region=us-east-1#welcome
 
 **1. You can see the AWS DeepRacer homepage through the link above.**
 
-![image-20210625165231103](https://user-images.githubusercontent.com/84532778/123418986-b5935400-d5f4-11eb-80b1-04b1d4249293.png)
+![image-20210625165231103](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625165231103.png)
 
 
 
 **2. Click on the banner on the left side of the window.**
 
-![image-20210625165618410](https://user-images.githubusercontent.com/84532778/123418991-b62bea80-d5f4-11eb-87d0-82bf7822395e.png)
+![image-20210625165618410](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625165618410.png)
 
 
 
 **3. You can see several menus for reinforcement Learning.**
 
-![image-20210625180006872](https://user-images.githubusercontent.com/84532778/123419011-b88e4480-d5f4-11eb-8861-ef1ec4c12da6.png)
+![image-20210625180006872](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625180006872.png)
 
 ---
 
@@ -38,7 +38,7 @@ https://console.aws.amazon.com/deepracer/home?region=us-east-1#welcome
 
 **1. Click the "Get started" for creating your custom model**
 
-![image-20210625180145025](https://user-images.githubusercontent.com/84532778/123419013-b926db00-d5f4-11eb-8c43-0c1a78bf2d75.png)
+![image-20210625180145025](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625180145025.png)
 
 ---
 
@@ -52,7 +52,7 @@ https://console.aws.amazon.com/deepracer/home?region=us-east-1#welcome
 
 Enter the name of your model.
 
-![image-20210625181544680](https://user-images.githubusercontent.com/84532778/123419018-ba580800-d5f4-11eb-9580-3300311821a2.png)
+![image-20210625181544680](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625181544680.png)
 
 ---
 
@@ -60,11 +60,11 @@ Enter the name of your model.
 
 **3. Choose a course you want to simulate.**
 
-![image-20210625182043051](https://user-images.githubusercontent.com/84532778/123419020-ba580800-d5f4-11eb-8472-a67fb3c54335.png)
+![image-20210625182043051](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625182043051.png)
 
 **If you try training for the first time, "Oval Track" is recommended.**
 
-![image-20210625182540680](https://user-images.githubusercontent.com/84532778/123419022-baf09e80-d5f4-11eb-8bde-3dbb6819255a.png)
+![image-20210625182540680](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625182540680.png)
 
 ---
 
@@ -72,7 +72,7 @@ Enter the name of your model.
 
 **4. Race type & Training algorithm**
 
-![image-20210625183758381](https://user-images.githubusercontent.com/84532778/123419034-bcba6200-d5f4-11eb-9cc7-be28b36e073b.png)
+![image-20210625183758381](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625183758381.png)
 
 ___
 
@@ -94,13 +94,13 @@ https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-how-it-wor
 
 **5. Agent** (Choose a vehicle you have.)
 
-![image-20210625183850343](https://user-images.githubusercontent.com/84532778/123419037-bdeb8f00-d5f4-11eb-8f5a-af8d5e7bc7da.png)
+![image-20210625183850343](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625183850343.png)
 
 
 
 **6. Reward function**
 
-![image-20210625184330224](https://user-images.githubusercontent.com/84532778/123419041-be842580-d5f4-11eb-94e3-64b630959a63.png)
+![image-20210625184330224](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625184330224.png)
 
 ---
 
@@ -122,7 +122,7 @@ https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-reward-fun
 
 you can set "Maximum time" for stop conditions.
 
-![image-20210625185250983](https://user-images.githubusercontent.com/84532778/123419049-bfb55280-d5f4-11eb-846b-ad4fd7b11b90.png)
+![image-20210625185250983](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625185250983.png)
 
 ---
 
@@ -130,7 +130,7 @@ you can set "Maximum time" for stop conditions.
 
 ## 3. Train your model & Evaluate.
 
-![image-20210625185641940](https://user-images.githubusercontent.com/84532778/123419053-c04de900-d5f4-11eb-9f2a-b6b121582093.png)
+![image-20210625185641940](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625185641940.png)
 
 You can see this screen if you've followed the steps well. It takes time to create a model.
 
@@ -142,7 +142,7 @@ Training will start automatically when the initialization is complete.
 
 **1. Training monitor**
 
-![image-20210625190426294](https://user-images.githubusercontent.com/84532778/123419057-c0e67f80-d5f4-11eb-9c58-16892157e26c.png)
+![image-20210625190426294](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625190426294.png)
 
 ---
 
@@ -164,7 +164,7 @@ You can judge whether the model is well trained and stop training early through 
 
 if your model have finished training, you can evaluate the model.
 
-![image-20210625191410043](https://user-images.githubusercontent.com/84532778/123419059-c17f1600-d5f4-11eb-8aab-b574025bdd3d.png)
+![image-20210625191410043](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625191410043.png)
 
 ---
 
@@ -176,11 +176,64 @@ Click "Download phsical car model" to download your trained weight file.
 
 The trained model can be applied to real DeepRacer.
 
-![image-20210625192325393](https://user-images.githubusercontent.com/84532778/123419065-c217ac80-d5f4-11eb-8ea6-a1ae94fd1e8a.png)
+![image-20210625192325393](C:\Users\rlawn\AppData\Roaming\Typora\typora-user-images\image-20210625192325393.png)
 
 
 
 ## 5. Connecting the DeepRacer to your computer.
 
+Look at the bottom of your vehicle and make note of the password printed under Host name. You'll need it to log in to the device control console to perform the setup.
+
+![DeepRacer_password](D:\사진 및 자료\한동\21-1학기\포스트 캡스톤\deepracer\MDfile\DeepRacer_password.jpg)
 
 
+
+On your computer, go to https://deepracer.aws to launch the device control console of your vehicle.
+
+![AWS_login_page](D:\사진 및 자료\한동\21-1학기\포스트 캡스톤\deepracer\MDfile\AWS_login_page.png)
+
+When prompted with a message that the connection is not private or secure, do one of the following. In Chrome, choose Avanced and then choose Proceed to `<device_console_ip_address> (unsafe)`.
+
+Under Unlock your AWS DeepRacer vehicle, enter the password noted in Step 1 and then choose Access vehicle.
+
+Note the IP address shown under Wi-Fi network details. You'll need it to open the vehicle's device control console after the initial setup and any subsequent modification of the Wi-Fi network settings.
+
+Note the IP address shown under Wi-Fi network details. You'll need it to open the vehicle's device control console after the initial setup and any subsequent modification of the Wi-Fi network settings.
+
+
+
+
+
+![Control_vehicle](D:\사진 및 자료\한동\21-1학기\포스트 캡스톤\deepracer\MDfile\Control_vehicle.png)
+
+When the connection is complete, the following DeepRacer main console window opens. On this screen, you can upload the model trained on the AWS website. You can also use commands to directly control the vehicle.
+
+
+
+## 6. Calibration the DeepRacer
+
+
+
+To calibrate the vehicle, click Calibration in the picture above.
+
+![Calibration_main](D:\사진 및 자료\한동\21-1학기\포스트 캡스톤\deepracer\MDfile\Calibration_main.png)
+
+
+
+Calibration can be done in two ways: speed and steering.
+
+
+
+![Calibrate_steer](D:\사진 및 자료\한동\21-1학기\포스트 캡스톤\deepracer\MDfile\Calibrate_steer.png)
+
+* ​	Screen to calibrate the steering
+
+
+
+![Calibrate_Speed](D:\사진 및 자료\한동\21-1학기\포스트 캡스톤\deepracer\MDfile\Calibrate_Speed.png)
+
+* Screen to calibrate the speed
+
+
+
+**When calibration is complete, return to the main console window to update the model and proceed with the demonstration.**
